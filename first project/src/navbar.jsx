@@ -1,6 +1,7 @@
 const Nav =()=> {
     return(
         <>
+
         <nav classname="Navbar">
             <h1>Logo</h1>
             <ul>
