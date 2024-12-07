@@ -1,13 +1,14 @@
 import'./App.css'
 import Nav from './Navbar.jsx'
 import Hero from './Hero.jsx'
+import Event from './Event.jsx'
 function App() {
 
-  TreeWalker
   return(
     <>
     <Nav />
     <Hero />
+    <Event/>
 
     <br/>
     </>

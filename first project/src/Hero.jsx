@@ -1,5 +1,7 @@
 import myimg1 from './assets/NEha 123.webp'
 const Hero = () => {
+
+
     return(
         <>
            <h1>from public folder</h1>
